@@ -4,16 +4,16 @@
 <br>
 
 ## 温度と売上の値を指定して散布図を表示
-![画像1](./Matplotlib-Exercises4-1.png)
+![画像1](./image01.png)
 
 <br>
 
 ## 別の散布図も一緒に表示
-![画像2](./Matplotlib-Exercises4-2.png)
+![画像2](./image02.png)
 
 <br>
 
 ## CSVファイルからデータを読み込み新たな散布図として表示
-![画像3](./Matplotlib-Exercises4-3.png)
+![画像3](./image03.png)
 
 <br>
